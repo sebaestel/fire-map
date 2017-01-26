@@ -1,0 +1,27 @@
+{
+  "name": "gen",
+  "version": "0.1.0",
+  "authors": [
+    "Sebastian Durán <yo@sebaduran.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-ui-router": "~0.3.1",
+    "angular-moment": "~0.10.3",
+    "angular-sanitize": "~1.5.8"
+  },
+  "resolutions": {
+    "angular": "~1.5.8"
+  },
+  "devDependencies": {
+    "angular-translate": "~2.13.1"
+  }
+}
